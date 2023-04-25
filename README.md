@@ -9,14 +9,13 @@
 
 - Яндекс.Практикум (завершила курс веб-разработчик, групповое обучение);
 - Hexlet (самостоятельное обучение https://ru.hexlet.io/u/smolib );
-- HTML Academy (групповое обучение, самостоятельно обучение, самостоятельные проекты, https://htmlacademy.ru/profile/id2034859).
+- HTML Academy ( завершен курс по React в групповом обучении, самостоятельно обучение, самостоятельные проекты, https://htmlacademy.ru/profile/id2034859).
 
 В данный момент продолжаю самообучение и групповое обучение, а также менторю группу студентов в Яндекс.Практикуме в роли старшего студента.
 
 Мои планы на ближайшие месяцы:
 - Завершить все начатые и запланированные самостоятельные проекты (это сложно, идеи приходят быстрее, чем их реализация) :surfer:
 - Пройти дополнительное обучение по интересующим меня областям:
-   - Пройти курс react-разработчика в htmlacademy для закрепления навыков, а также для опыта работы с TS и Redux.
    - Подробнее изучить анимацию и научиться все вертеть-крутить с вау-эффектом.
    - Дочитать книгу "Грокаем алгоритмы".
 - Найти супер-команду для дальнейшей работы 👯
@@ -25,7 +24,10 @@
 :tada: Много фронтенда:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -42,3 +44,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+:fire: Есть небольшое знакомство со следующими технологиями:
+
+![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
+![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
